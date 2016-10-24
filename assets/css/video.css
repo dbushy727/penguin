@@ -1,0 +1,14 @@
+#fullscreen-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+@media screen and (max-width: 500px) {
+
+    #banner {
+        padding-top: 1em;
+    }
+
+}
