@@ -31,7 +31,7 @@
 
 @media (max-width: 767px) {
     #fullscreen-bg {
-        background: url('https://images.unsplash.com/photo-1452541735531-b68f5e769257?dpr=2&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb') center center / cover no-repeat;
+        background: url('/images/penguin_poster.png') center center / cover no-repeat;
     }
 
     #fullscreen-video {
